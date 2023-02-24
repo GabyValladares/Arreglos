@@ -13,6 +13,16 @@ namespace Arreglos
 
             Console.WriteLine("Hola");
         /* la chica de humo *-*/
+            
+            //Autor: Josue Alejandor Morillo Castro
+                int a = 2;
+                int b = 4;
+                int respuesta;
+            
+            respuesta = a * b;
+            
+            Console.WriteLine("Tu respuesta es: " +respuesta);
+                
         }
 
     }
