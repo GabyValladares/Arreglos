@@ -12,7 +12,7 @@ namespace Arreglos
         static void Main(string[] args) {
 
             Console.WriteLine("Hola");
-        /* la chica de humo *-*/
+        
         }
 
     }
